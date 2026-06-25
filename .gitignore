@@ -52,6 +52,5 @@ dist/
 *.pyc
 
 # ===== user doc =========
-doc
 /game/agent/.env
 /agent/README.md
